@@ -1,8 +1,7 @@
 
 
-Original file is located at
-    https://colab.research.google.com/drive/1iBGAYFKl6D7PhlEeY0vDrYfbSSGGPM2K
-"""
+
+
 
 import pandas as pd
 import numpy as np
